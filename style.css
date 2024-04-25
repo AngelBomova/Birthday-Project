@@ -1,0 +1,48 @@
+.body {
+    background-color: #01DADA;
+  }
+  .navbutton {
+    background-color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+  .navtext {
+    color: #073B4C;
+    font-family: 'Moul'; 
+    font-size: 36px;
+  }
+  .navsec {
+      background-color:#E9E0C9 ;
+     border:1px solid black;
+     padding: 32px 8px;
+  }
+  .glow {
+    background-color: #FFD166;
+  }
+  .hoverglow:hover {
+    background-color: #FFD166;
+  }
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+
+
+  .hone {
+    font-family: 'Mountains of Christmas';
+    font-size: 32px;
+    color: black;
+    text-align: center;
+    padding-top: 5%;
+  }
+  .htwo {
+    font-family: 'Moulpali';
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    padding-top: 5%;
+  }
+
